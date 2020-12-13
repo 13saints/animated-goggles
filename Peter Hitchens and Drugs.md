@@ -12,5 +12,5 @@ Peter Hitchens got under my skin a bit. On the one hand he supports drug ciminal
 
 [![CC BY-SA 4.0][cc0-image]][cc0]
 
-[cc0]: https://raw.githubusercontent.com/13saints/licenses/main/CC0.txt?token=ARHS4S7OEGNVLQZM4OCVBOC72ZUUC
+[cc0]: https://raw.githubusercontent.com/13saints/licenses/main/CC0.txt
 [cc0-image]: https://licensebuttons.net/l/zero/1.0/88x31.png
