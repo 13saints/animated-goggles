@@ -3,3 +3,5 @@
 Nob lost his club in the fight. He pressed hard, nails digging into the wood of the handle, but the yank from behind was too strong. A savage punched him in the gut, and he let the club go.
 
 You don't just let your weapon go in a dirt fight. It will be used against you if you do. Maybe not immediately, but survive long enough, and just you see.
+
+He stepped on a dead man as he wrestled frantically. A mouth shoved into his buttock. Nob kneed the man before him; he grabbed Nob's cock as he dropped. Nob fell forward.
