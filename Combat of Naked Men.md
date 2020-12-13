@@ -1,1 +1,1 @@
-![Jean Mignon's Combat of Naked Men](Images/Jean Mignon Combat of Naked Men.jpg)
+![Jean Mignon's Combat of Naked Men](https://github.com/13saints/animated-goggles/blob/main/Images/Jean%20Mignon%20Combat%20of%20Naked%20Men.jpg)
