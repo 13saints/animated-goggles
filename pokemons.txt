@@ -1,0 +1,51 @@
+1 Bulbasaur
+2
+3
+4
+5
+6 Charizard
+7
+8
+9
+10 Caterpie
+11
+12
+13 Weedle
+14
+15
+16 Pidgey
+17
+18
+19 Ratatta
+20
+21 Spearow
+22
+23 Ekans
+24 
+25 Pikachu
+26
+27 Sandshrew
+28
+29 Nidoran
+30 Nidorina
+31 Nidoqueen
+32 Nidoran
+33 Nidorino
+34 Nidoking
+35 Clefairy X
+36 Clefable X
+37 Vulpix
+38 Ninetails
+39 Jigglypuff
+40 Wigglytuff
+41 Zubat
+42 Golbat
+43 Odish ~
+44 Gloom ~
+45 Vileplume ~
+46 Paras ~
+47 Parasect ~
+48 Venonat ~
+49 Venomoth ~
+50 Diglet
+51 Dugtrio
