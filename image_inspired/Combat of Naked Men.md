@@ -1,4 +1,4 @@
-![Jean Mignon's Combat of Naked Men](/Images/Jean%20Mignon%20Combat%20of%20Naked%20Men.jpg)
+![Jean Mignon's Combat of Naked Men](/Images/Jean_Mignon_Combat_of_Naked_Men.jpg)
 
 Nob lost his club in the fight. He pressed hard, nails digging into the wood of the handle, but the yank from behind was too strong. A savage punched him in the gut, and he let the club go.
 
