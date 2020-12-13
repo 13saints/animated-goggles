@@ -10,5 +10,5 @@ He stepped on a dead man as he wrestled frantically. A mouth shoved into his but
 
 [![CC BY-SA 4.0][cc0-image]][cc0]
 
-[cc0]: https://raw.githubusercontent.com/13saints/animated-goggles/main/LICENSE
+[cc0]: https://raw.githubusercontent.com/13saints/licenses/main/CC0.txt?token=ARHS4S7OEGNVLQZM4OCVBOC72ZUUC
 [cc0-image]: https://licensebuttons.net/l/zero/1.0/88x31.png
