@@ -11,3 +11,8 @@ But Polar 2.0 does away with the offline system. Everything is on the cloud. I c
 It does what I don't need. It skips what I do need. What the hell am I supposed to do with this demonstrably inferior product? 
 
 *Created on 2020-12-12.*
+
+[![CC BY-SA 4.0][cc0-image]][cc0]
+
+[cc0]: https://raw.githubusercontent.com/13saints/licenses/main/CC0.txt
+[cc0-image]: https://licensebuttons.net/l/zero/1.0/88x31.png
