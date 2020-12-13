@@ -1,1 +1,1 @@
-![Jean Mignon's Combat of Naked Men](Images\Jean Mignon Combat of Naked Men.jpg)
+![Jean Mignon's Combat of Naked Men](Images/Jean Mignon Combat of Naked Men.jpg)
