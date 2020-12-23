@@ -1,6 +1,6 @@
 # Sun v Planet
 
-![sunvplanet.png](\Images\sunvplanet.png)    
+![sunvplanet.png](/Images/sunvplanet.png)    
 
 ```netlogo
 breed [ suns sun ]
