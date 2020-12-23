@@ -1,1 +1,0 @@
-All pictures in this folder are in the public domain.

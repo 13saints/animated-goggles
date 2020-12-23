@@ -34,6 +34,6 @@ Women with wide jawlines seem to have been common back then. These women appear 
 
 This is evidence for the claim that the average jawline has shrunk in the last hundred years because of the soft, processed food we eat.
 
-*Created on . Last Updated on .*
+*Created on December 21, 2020. Last Updated on December 21, 2020.*
 
 [![Kakashi Public License Affirmed](https://github.com/13saints/licenses/blob/main/logos/KPLv1.0-affirmed-medium.png)](https://raw.githubusercontent.com/13saints/licenses/main/KPLv1.0.txt)
