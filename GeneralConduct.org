@@ -1,0 +1,102 @@
+
+Thinking About A Particular Way To Conduct Writing In General.
+Copyright (C) 2021 alanwespen. 
+the contents of this file are in the Public Domain as per the provisions set
+forth by the Kakashi Public License v1.0 (full text in the end of the document). 
+
+
+* STYLING (or THE 13RULESOFWRITING).
+one of the essential features of good writing is consistent style. No
+Consistency = No Substance. when you write something, it is your duty to make
+the content appear to be of high quality. the following are a list of guidelines
+to be followed to help you out. these guidelines are lovingly called the
+13rulesofbeautifulwriting, although there may not be literally 13 of them.
+
+(1) use numbers wherever you can. the wise order of the ancient Hindoos created
+0 as we know it, and thus gave us the modern number system. drop the inane Roman
+numerals; whenever you need numbers use the Gift of the Hindoos ( 0 1 2 3 4 5 6
+7 8 9 ) to create the meaning you need. style guides say you cannot begin with a
+numeral after a period. well, that is totally arbitrary; it does not make the
+text more beautiful, but it does make the writing difficult. corollary: using
+ordinals such as 1st, 7th, etc is also encouraged.
+
+(2) optional. double space after periods. the 13 Saints are hereby encouraged to
+get into the habit of beginning a sentence after two spaces following the previous
+period. this is inconvenient, but offers practical benefits to coding. this
+guideline is optional.
+
+(3) begin the document with a title. it does not need to be highlighted into a
+point, but all the 1st letters of the words in the title must be capitalized.
+the title must also end with a period.
+
+(4) assert copyright. this comes right below the title. this also serves to
+declare the author of a piece.
+
+(5) declare license. this comes right below the copyright assertion.
+
+(6) at the end of the document, if it is viable to do so, paste full text of the
+license applicable on the document.
+
+(7) list the versions of the document near the end. in the list, write about the
+changes made as much as is reasonable. chronological listing is preferred, but
+reverse-chronological listing may be used when it is appropriate to do so.
+
+(8) periods. headers end with periods. everything ends with a period.
+
+(9) capitalization serves a purpose. just because a sentence is beginning, it
+does not mean that a capital letter must be deployed. what if the sentence is a
+measly nothingburger that deserves no attention? no capitals for that. on the
+other hand if the sentence is a title, capitalize every first word. use
+capitalization whenever needed. use it to highlight. do not overuse it.
+
+(10) keep nesting down to a minimum. the document, even if it is an org file,
+should attempt to look good when opened by a regular text editor too. use
+exactly as many nestings as needed, but not 1 more. 
+
+(11) hard wrap for convenience, possibly with the help of auto-fill-mode, but do
+not obsess over it. do not attempt to adjust line wrappings for multiple lines
+when you find yourself adding/subtracting content from a line causing the right
+side to become more jagged than intended. do not waste time on such stuff. make
+sure the right does not stick out too far. tall peaks are the problem, deep
+crevasses are not; in fact they naturally occur. 
+
+* THE 13 SAINTS.
+here is an exhaustive list of the 13 Saints whom everyone is advised to follow.
+in no particular order, these venerable beings are
+(1) alan wespen
+(2) seawan heplant
+(3) 
+(13) 
+
+
+
+* Versions.
+Version 0.1 on <2021-01-04 Mon>. Styling 1-11. The 13 Saints 1-2. License. 
+
+* License.
+KAKASHI PUBLIC LICENSE
+
+Version 1.0, December 2020
+
+Copyright (C) 2020 Thirteen Saints
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name of the license is changed.
+
+1. APPLICABILITY
+
+   Every file on which the Kakashi Public License version 1.0 
+applies must state so independently through a declaration such as
+the following: Kakashi Public License Affirmed. Simply placing this
+license document in a folder or repository does not associate it
+with the files contained in that folder or repository.
+
+2. WAIVER
+
+   To the greatest extent permitted by law, the licensor hereby
+unconditionally waives all of his copyright and related rights.
+
+3. TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+   You just do what the fuck you want to.

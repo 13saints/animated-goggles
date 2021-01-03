@@ -14,5 +14,7 @@ Good start. Liking the premise.
 
 ---
 
+2020-01-03
 
+**I cannot understand what my husband is saying** s1e1.
 
