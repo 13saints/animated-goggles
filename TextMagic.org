@@ -1,0 +1,127 @@
+A Text-based Magic System Inspired By Textfiles.com. 
+Version 0.1.
+Copyright (C) seawanheplant.
+Kakashi Public License v1.0 Affirmed.  
+
+* thoughts.
+the setting is the 80s. anytime during the decade of the 80s is allowed, and
+jumping back and forth is allowed, though discouraged. computers are beginning
+to make their mark. people have a hard time making use of these computers.
+seeing how far we have come with computer technology in the last few decades, it
+is not difficult to imagine that there would be very sophisticated chips inside
+our brains in a few deacdes. the way we are alienated from the older,
+technologically incapable generation because of our use of computers,
+smartphones, and the internet, the next generation is going to be alienated from
+us, because they will not know a life without a computer embedded in their
+brains. but that is not the focus here. the focus here is on the bygone tech
+that brings with it a sense of nostalgia for the times when those who understood
+such things understood all or most of it. 
+
+a group of hackers (this is a late-teenage bunch of boys) are tinkering with all
+the computers they can get a hold of. they are assisted by the older folk who
+have invented the technology. but already, the software game is attempting to
+take a life of its own with these younger kids.
+
+the hackers are in mostly for fun. they are not called hackers yet, because they
+have not broken into anything. everything is open, anyone can get in without the
+need to break anything. they just need to know what to do. 
+
+first for fun, and then for competition, one by one, they get into several of the
+computers in town. and then they begin discovering stuff.
+1. bank records. there were people who thought it would be great to keep bank
+   records in an unencrypted form in their computers. aside: it would be
+   interesting to study about how banking moved from all paperwork and metals to
+   bits in the digital space, the History Of Banking---From Metals To Bits. 
+2. personal diaries. this includes inner thoughts about medical records and sex
+   life. 
+3. advanced private projects. these could now be stolen and passed on as the
+   personal projects and advancements of the hackers, who also could set up
+   systems to monetize these works.
+
+not every machine was connected to the internet at this time. so how did the
+hackers manage to get a hold of such stuff?
+1. viruses. media devices could come with malware designed to copy everything,
+   or key-log everything typed henceforth. this stored information would not
+   have been able to go out into the world on their own. the user would help
+   out. say he got a disk to view a movie or play a game, the disk remained
+   installed and did its malware stuff in the background and stored the
+   information, as much as possible, into the internal disk storage. when the
+   user returned the disk (which had been rented) he returned a copy of the files
+   in his computer too. 
+2. interet cables would be needed for certain tasks. when somebody plugged his
+   machine to the internet and visited certain sites, it would download malware
+   into his machine, that would perform actions similar to those descibed above.
+   then it would send the information through the wires.
+3. and finally, there were some computers that were plugged in all the time.
+   these could be hacked into by the hackers whenever they chose.
+
+over the course of their hacking, they get into trouble. there are white hat
+hackers who are after them. they had hacked into something serious, and now
+there were magical forces out there trying to kill them.
+
+:PROLOGUE: a hacker, a top student, watching an ascii art of a nude girl. the
+closer he monitors her, the more aware he becomes of the fact that this is a
+girl he knows. this is a literature teacher from high school, who had come as a
+substitute teacher for a month, when the teacher was pregnant. she'd been
+assigned to middle-grade classes after that. but the hacker admired her from a
+distance. // the hacker gets further from the screen and is able to view the
+shades of her body. he wants to see the breasts from up close, but when he gets
+close, the details of the text show, and he is unable to enjoy the
+representation. the hacker runs a few more lines of code and the art becomes
+denser. he does this a few more times, and the resemblance becomes more stark.
+and then HE MAKES A TYPO IN HIS COMMAND and hits return. the characters in the
+screen begin to move, instead of an error return. the crush flaunts herself.
+texts begin to appear on the screen. the hacker is confused, but assumes this is
+the work of a very advanced coder. he would figure out how to write a program
+that did this, but for now, he would play the game out. he confesses his
+infatuation with the teacher. and the moment he does so, he's becomes an array
+of ascii characters that get swept into the media device, and the media device
+enters the cpu and he's in the screen with his crush naked. :/PROLOGUE:
+
+this guy is back in the real world. the teacher had warned him about these
+magical creatures but he thought this was a dream. but the dream stayed, and he
+went on to write a code that "gave life to ascii art". 
+
+one of the hackers had hacked into a repository of magical information. ++remeber
+this town is a crater town. crater physics apply.++ magical elements get out of
+hand during thunderstorms. all wired connections are requested to be
+disconnected. otherwise the magical creatures can travel through the wires and
+attack civilians. 
+
+don't think too far ahead. plot-dead-ends have never been your problem. just
+write up what you've got so far.
+
+
+
+
+* versions.
+version 0.1 on <2021-01-04 Mon>.
+* license information.
+KAKASHI PUBLIC LICENSE
+
+Version 1.0, December 2020
+
+Copyright (C) 2020 Thirteen Saints
+
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name of the license is changed.
+
+1. APPLICABILITY
+
+   Every file on which the Kakashi Public License version 1.0 
+applies must state so independently through a declaration such as
+the following: Kakashi Public License Affirmed. Simply placing this
+license document in a folder or repository does not associate it
+with the files contained in that folder or repository.
+
+2. WAIVER
+
+   To the greatest extent permitted by law, the licensor hereby
+unconditionally waives all of his copyright and related rights.
+
+3. TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+
+   You just do what the fuck you want to.
+
+   

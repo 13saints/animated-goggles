@@ -5,7 +5,7 @@ the contents of this file are in the Public Domain as per the provisions set
 forth by the Kakashi Public License v1.0 (full text in the end of the document). 
 
 
-* STYLING (or THE 13RULESOFWRITING).
+* STYLING (or THE 13RULESOFBEAUTIFULWRITING).
 one of the essential features of good writing is consistent style. No
 Consistency = No Substance. when you write something, it is your duty to make
 the content appear to be of high quality. the following are a list of guidelines
@@ -41,7 +41,8 @@ license applicable on the document.
 changes made as much as is reasonable. chronological listing is preferred, but
 reverse-chronological listing may be used when it is appropriate to do so.
 
-(8) periods. headers end with periods. everything ends with a period.
+(8) periods. headers end with periods. every sentence ends with a period unless it
+needs to end with a colon.
 
 (9) capitalization serves a purpose. just because a sentence is beginning, it
 does not mean that a capital letter must be deployed. what if the sentence is a
@@ -62,10 +63,10 @@ crevasses are not; in fact they naturally occur.
 
 * THE 13 SAINTS.
 here is an exhaustive list of the 13 Saints whom everyone is advised to follow.
-in no particular order, these venerable beings are
-(1) alan wespen
-(2) seawan heplant
-(3) 
+in no particular order, these venerable beings are listed below:
+(1) alan wespen.
+(2) seawan heplant.
+(3) bald eagle.
 (13) 
 
 
