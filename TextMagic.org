@@ -91,9 +91,6 @@ attack civilians.
 don't think too far ahead. plot-dead-ends have never been your problem. just
 write up what you've got so far.
 
-
-
-
 * versions.
 version 0.1 on <2021-01-04 Mon>.
 * license information.
